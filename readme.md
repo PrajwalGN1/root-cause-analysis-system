@@ -1,4 +1,4 @@
-#  Root Cause Analysis System (Real-Time System Monitoring)
+#  Root Cause Analysis System 
 
 ##  Overview
 
